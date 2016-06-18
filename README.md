@@ -1,0 +1,2 @@
+# AlfredWorkflow
+Some alfred workflow
